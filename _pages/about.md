@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Get to know me
-======
 My name is Thatchayut Unjitwattana, but most of you may know me by ***Tay***. I'm a Ph.D. candidate at the University of Michigan in the Biomedical Engineering department. My current research interests include, but are not limited to, single-cell and spatial transcriptomic analysis of cancer and placenta tissues, integrating spatial transcriptomics with graph neural network models for cell-cell communication inference, and drug repurposing using spatial transcriptomic data. 
 
 Fun fact about me: 
