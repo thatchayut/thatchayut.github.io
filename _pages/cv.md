@@ -17,10 +17,10 @@ Education
 Research experience
 ======
 * November 2020 - Present: Graduate student research assistant @ Lana Garmire Group | University of Michigan, Ann Arbor, MI, USA
-  * Worked on using machine learning and deep learning approaches for biomarker discovery and predictive analysis
-  * Performed single-cell RNA sequencing data analysis
-  * Performed spatial transcriptomics data analysis
-  * Contributed to proposals, reports, and manuscripts. Carried out literature reviews of bioinformatics, cancer, and placental biology
+  * Using machine learning and deep learning approaches for biomarker discovery and predictive analysis
+  * Performing single-cell RNA sequencing data analysis
+  * Performing spatial transcriptomics data analysis
+  * Contributing to proposals, reports, and manuscripts. Carrying out literature reviews of bioinformatics, cancer, and placental biology
   * My current research interests include, but are not limited to, single-cell and spatial transcriptomic analysis of cancer and placenta tissues, integrating spatial transcriptomics with graph neural network models for cell-cell communication inference, and drug repurposing using spatial transcriptomic data.
 
 * January 2020 - June 2020: Undergraduate student research assistance @ Computational Intelligence Laboratory | Chiang Mai University, Chiang Mai, Thailand
