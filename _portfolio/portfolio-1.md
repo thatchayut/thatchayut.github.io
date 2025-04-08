@@ -1,5 +1,5 @@
 ---
-title: "Poster presentation at the MidAtlantic Bioinformatics Conference, 2023"
+title: "[10/06/2023] Poster presentation at the MidAtlantic Bioinformatics Conference, 2023"
 excerpt: "Location: Children's Hospital of Philadelphia, Philadelphia, PA <br/><img src='/images/midatlantic_presentation.jpg'>"
 collection: portfolio
 ---
