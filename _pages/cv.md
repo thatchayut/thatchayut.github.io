@@ -14,7 +14,7 @@ Education
 * M.S. in Biomedical Engineering, University of Michigan, 2022
 * B.S. in Computer Engineering, Chiang Mai University, 2019
 
-Work experience
+Research experience
 ======
 * November 2020 - Present: Graduate student research assistant @ Lana Garmire Group | University of Michigan, Ann Arbor, MI, USA
   * Worked on using machine learning and deep learning approaches for biomarker discovery and predictive analysis
@@ -33,7 +33,24 @@ Work experience
   * Responsible for general hardware tasks
   * Contributed to the optimization of the device for measuring the depth of the
 riverbed
+
+Presentations
+======
+* Lahiri, S., **Unjitwattana, T.**, Dong, K., Du, Y., Girard, S., & Garmire, L. (2024, May 18). Building a rigorous placenta atlas to enable pregnancy research [Poster presentation]. DahShu 2024 Data Science Symposium, Michigan State University, Michigan.
+* **Unjitwattana, T.**, Huang, Q., Du, Y., Yang, Y., Zhou, M., & Garmire, L. (2023, October 6). Cell origin deconvolution pipeline for scRNA-seq data [Poster presentation]. MidAtlantic Bioinformatics Conference 2023, University of Pennsylvania, Pennsylvania.
+
   
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Honors & awards
+======
+* Thai Government Science and Technology Scholarship
+  * Issued by The Ministry of Higher Education, Science, Research Innovation; The Royal Thai Government · Dec 2019
+ 
 Skills
 ======
 * Bioinformatics
@@ -45,14 +62,4 @@ Skills
 * Hardware development
   * Arduino IDE
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Honors & awards
-======
-* Thai Government Science and Technology Scholarship
-  * Issued by The Ministry of Higher Education, Science, Research Innovation; The Royal Thai Government · Dec 2019
 
