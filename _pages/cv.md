@@ -54,8 +54,8 @@ Honors & awards
 Skills
 ======
 * Bioinformatics
-  * scRNA-seq analysis
-  * spatial transcriptomic analysis 
+  * single cell RNA (scRNA)-seq analysis
+  * Spatial transcriptomic analysis 
 * Machine learning
 * Deep learning
 * Electronics & hardware design
