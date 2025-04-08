@@ -13,4 +13,4 @@ My name is Thatchayut Unjitwattana, but most of you may know me by ***Tay***. I'
 
 Fun fact about me: 
 * Somebody knows me by Thai, as it's a bit confusing when I introduce myself as Tay from Thailand.
-* When I'm not at work, I'd probably (and secretly) be strolling around the Ann Arbor area and singing with [https://sites.google.com/view/hvharmonizers](Huron Valley Harmonizer). 
+* When I'm not at work, I'd probably (and secretly) be strolling around the Ann Arbor area and singing with [Huron Valley Harmonizer](https://sites.google.com/view/hvharmonizers). 
