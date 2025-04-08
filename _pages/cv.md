@@ -38,6 +38,7 @@ Presentations
 ======
 * Lahiri, S., **Unjitwattana, T.**, Dong, K., Du, Y., Girard, S., & Garmire, L. (2024, May 18). Building a rigorous placenta atlas to enable pregnancy research [Poster presentation]. DahShu 2024 Data Science Symposium, Michigan State University, Michigan.
 * **Unjitwattana, T.**, Huang, Q., Du, Y., Yang, Y., Zhou, M., & Garmire, L. (2023, October 6). Cell origin deconvolution pipeline for scRNA-seq data [Poster presentation]. MidAtlantic Bioinformatics Conference 2023, University of Pennsylvania, Pennsylvania.
+* **Unjitwattana T.**, Yadav S., He B., & Garmire, L. (2022, July 10). Single Cell Pathway Embedding Neural Network (scPENN) for Single Cell RNA-Seq Analysis [Poster presentation]. Intelligent Systems for Molecular Biology (ISMB) 2022.
 
   
 Publications
