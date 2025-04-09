@@ -1,5 +1,5 @@
 ---
-title: "Poster presentation at DahShu 2024 Data Science Symposium"
+title: "[05/17/2024] Poster presentation at DahShu 2024 Data Science Symposium"
 excerpt: "Location: Michigan State University, East Lansing, MI <br/><img src='/images/dahshu_presentation_1.jpg'>"
 collection: portfolio
 ---

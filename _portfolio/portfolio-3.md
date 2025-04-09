@@ -1,5 +1,5 @@
 ---
-title: "I was invited to give a selected talk at DahShu 2024 Data Science Symposium"
+title: "[05/18/2024] I was invited to give a selected talk at DahShu 2024 Data Science Symposium"
 excerpt: "Location: Michigan State University, East Lansing, MI <br/><img src='/images/dahshu_presentation_2.jpg'>"
 collection: portfolio
 ---
