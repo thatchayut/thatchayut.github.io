@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Biomedical Engineering, University of Michigan, 2022
-* B.S. in Computer Engineering, Chiang Mai University, 2019
+* Ph.D. candidate in Biomedical Engineering | August 2022 - Present
+* M.S. in Biomedical Engineering, University of Michigan, USA | August 2020 - May 2022 
+* B.S. in Computer Engineering, Chiang Mai University, Thailand | August 2015 - May 2019
 
 Research experience
 ======
