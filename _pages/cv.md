@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* November 2020 - Present: Graduate student research assistant @ Lana Garmire Group | University of Michigan, Ann Arbor, MI, USA
+* November 2020 - Present: Graduate student research assistant @ [Lana Garmire Group](https://garmiregroup.org/) | University of Michigan, Ann Arbor, MI, USA
   * Using machine learning and deep learning approaches for biomarker discovery and predictive analysis
   * Performing single-cell RNA sequencing data analysis
   * Performing spatial transcriptomics data analysis
