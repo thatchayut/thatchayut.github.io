@@ -2,7 +2,7 @@
 title: "[Preprint] Linking Spatial Omics to Patient Phenotypes at Population Scale Using BSNMani"
 collection: publications
 category: preprints
-permalink: /publication/s13059-025-03495-9
+permalink: /publication/2025-08-12-BSNMani
 excerpt: 'Spatial omics enables the integration of gene expression with clinical outcome, yet incorporating spatial single-cell data into predictive statistical models at the population scale remains a significant challenge. Here, we adapt BSNMani, a Bayesian scalar-on-network regression model with manifold learning, to incorporate spatial co-expression networks for disease outcome modeling. Using the Seattle Alzheimer’s Disease Brain Cell Atlas (SEA-AD) MERFISH dataset (n=26), we found that Smoothie is a desired method for constructing spatially informed sample-specific co-expression matrices within the BSNMani framework, among the four benchmarked methods, including WGCNA, Smoothie, SpaceX, and hdWGCNA. BSNMani reached an accuracy of AUC = 0.76 for Alzheimer’s Disease (AD) prediction, while revealing 4 distinct gene-gene co-expression subnetworks among the patients. We also applied the Smoothie + BSNMani workframe to predict the patient survival from a breast cancer spatial proteomics dataset obtained with Imaging Mass Cytometry (IMC) technology. The workframe showed robust predictive accuracy for patient survival and revealed biologically meaningful subnetworks associated with tumor progression, immune regulation, hormone signaling, and metabolic reprogramming. BSNMani is a powerful tool that integrates high-dimensional spatial omics data for clinical outcome prediction across diverse disease settings, while revealing deep biological insights and easy interpretation.'
 date: 2025-08-12
 venue: 'medRxiv'
