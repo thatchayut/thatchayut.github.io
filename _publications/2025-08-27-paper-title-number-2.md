@@ -1,5 +1,5 @@
 ---
-title: "Linking Spatial Omics to Patient Phenotypes at Population Scale Using BSNMani"
+title: "[Preprint] Linking Spatial Omics to Patient Phenotypes at Population Scale Using BSNMani"
 collection: publications
 category: preprints
 permalink: /publication/2025-08-12-BSNMani
