@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Thatchayut Unjitwattana, but most of you probably know me as ***Tay***. I am a faculty member at the [Biomedical Enginerring Institute, Chiang Mai University](https://www.cmu.ac.th/en/faculty/biomedical_engineering_center/aboutus), with research interests spanning computational biology, bioinformatics, and computationally-driven precision medicine.
+My name is Thatchayut Unjitwattana, but most of you probably know me as ***Tay***. I am a faculty member at the [Biomedical Engineering Institute, Chiang Mai University](https://www.cmu.ac.th/en/faculty/biomedical_engineering_center/aboutus), with research interests spanning computational biology, bioinformatics, and computationally-driven precision medicine.
 
 ## Research Interests
 * **Computational Medicine and Bioinformatics**
