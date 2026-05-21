@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Thatchayut Unjitwattana, but most of you probably know me as ***Tay***. I'm a biomedical engineering Ph.D. candidate at the University of Michigan. My current research interests include, but are not limited to, single-cell and spatial transcriptomic analysis of cancer and placenta tissues, integrating spatial transcriptomics with graph neural network models for cell-cell communication inference, and drug repurposing using spatial transcriptomic data. 
+My name is Thatchayut Unjitwattana, but most of you probably know me as ***Tay***. I am a faculty member at the [Biomedical Enginerring Institute, Chiang Mai University](https://www.cmu.ac.th/en/faculty/biomedical_engineering_center/aboutus), with research interests spanning computational biology, bioinformatics, and computationally-driven precision medicine.
 
-Fun fact about me: 
-* When I'm not at work, I'd probably be (secretly) strolling around the Ann Arbor area and singing with [Huron Valley Harmonizer](https://sites.google.com/view/hvharmonizers). 
+## Research Interests
+* **Computational Medicine and Bioinformatics**
+* **Multi-omics Data Analysis**
+* **Computational Algorithm Development for Biomedical Engineering and Bioinformatics**
+
+## Fun fact about me: 
+* When I was in the US, I loved (secretly) strolling around the Ann Arbor area and singing with [Huron Valley Harmonizer](https://sites.google.com/view/hvharmonizers). 
