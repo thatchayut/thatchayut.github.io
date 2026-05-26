@@ -15,4 +15,4 @@ My name is Thatchayut Unjitwattana, but most of you probably know me as ***Tay**
 * **Computational Algorithm Development for Biomedical Engineering and Bioinformatics**
 
 ## Fun fact about me: 
-* When I was in the US, I loved (secretly) strolling around the Ann Arbor area and singing with [Huron Valley Harmonizer](https://sites.google.com/view/hvharmonizers). 
+* When I was in the US, I loved (secretly) strolling around the Ann Arbor area and singing with [Huron Valley Harmonizer](https://www.hvharmonizers.org/). 
