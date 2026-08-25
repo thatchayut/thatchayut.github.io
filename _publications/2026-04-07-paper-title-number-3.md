@@ -1,5 +1,6 @@
 ---
 title: "[Preprint] STDrug enables spatially informed personalized drug repurposing from spatial transcriptomics"
+authors: Yiwen Yang, *Thatchayut Unjitwattana*, Shu Zhou, Suguru Kadomoto, Xiaotong Yang, Tianao Chen, Abdullah Karaaslanli, Yuheng Du, Wanxing Zhang, Haodong Liang, Xuhui Guo, Evan T Keller & Lana X Garmire
 collection: publications
 category: preprints
 permalink: /publication/2026-04-07-STDrug

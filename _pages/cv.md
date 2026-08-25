@@ -46,14 +46,14 @@ Publications
 ======
 {% assign publications = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
   <ul>{% for post in publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html show_authors=true %}
   {% endfor %}</ul>
 
 Preprints
 ======
 {% assign preprints = site.publications | where: "category", "preprints" | sort: "date" | reverse %}
   <ul>{% for post in preprints %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html show_authors=true %}
   {% endfor %}</ul>
 
 Honors & awards
