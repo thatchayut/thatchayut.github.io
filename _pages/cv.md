@@ -44,7 +44,15 @@ Presentations
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+{% assign publications = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
+  <ul>{% for post in publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Preprints
+======
+{% assign preprints = site.publications | where: "category", "preprints" | sort: "date" | reverse %}
+  <ul>{% for post in preprints %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
