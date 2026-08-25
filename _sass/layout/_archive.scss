@@ -53,16 +53,17 @@
   align-items: flex-start;
   justify-content: space-between;
   gap: 1em;
+  margin-top: 1em;
 
   .archive__item-title {
     flex: 1 1 auto;
+    margin-top: 0;
   }
 }
 
 .archive__item-altmetric {
   flex: 0 0 auto;
   min-width: 64px;
-  margin-top: 1em;
   text-align: right;
 }
 
@@ -72,6 +73,10 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+  }
+
+  .archive__item-heading .archive__item-title {
+    margin-top: 0;
   }
 }
 
