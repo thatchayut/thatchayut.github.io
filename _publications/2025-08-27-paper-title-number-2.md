@@ -1,6 +1,6 @@
 ---
 title: "[Preprint] Linking Spatial Omics to Patient Phenotypes at Population Scale Using BSNMani"
-authors: Tong Liu, Yiwen Yang, Haowen Wu, *Thatchayut Unjitwattana*, Suyuan Wang, Jian Kang, Yijun Li & Lana X Garmire
+authors: "Tong Liu, Yiwen Yang, Haowen Wu, *Thatchayut Unjitwattana*, Suyuan Wang, Jian Kang, Yijun Li & Lana X Garmire"
 collection: publications
 category: preprints
 permalink: /publication/2025-08-12-BSNMani
