@@ -48,6 +48,24 @@
   }
 }
 
+.archive__item-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1em;
+
+  .archive__item-title {
+    flex: 1 1 auto;
+  }
+}
+
+.archive__item-altmetric {
+  flex: 0 0 auto;
+  min-width: 64px;
+  margin-top: 1em;
+  text-align: right;
+}
+
 /* remove border*/
 .page__content {
 

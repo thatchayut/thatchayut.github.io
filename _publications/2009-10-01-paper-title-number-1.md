@@ -1,6 +1,7 @@
 ---
 title: "Single-cell RNA-seq data have prevalent blood contamination but can be rescued by Originator, a computational tool separating single-cell RNA-seq by genetic and contextual information"
 authors: "*Thatchayut Unjitwattana*, Qianhui Huang, Yiwen Yang, Leyang Tao, Youqi Yang, Mengtian Zhou, Yuheng Du & Lana X. Garmire"
+doi: "10.1186/s13059-025-03495-9"
 collection: publications
 category: manuscripts
 permalink: /publication/s13059-025-03495-9

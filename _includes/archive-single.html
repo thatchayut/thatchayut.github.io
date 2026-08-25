@@ -26,13 +26,24 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    <div class="archive__item-heading">
+      <h2 class="archive__item-title" itemprop="headline">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h2>
+      {% if include.show_altmetric and post.doi %}
+        <div class="archive__item-altmetric">
+          <div data-doi="{{ post.doi | escape }}"
+               data-badge-popover="bottom"
+               data-badge-type="donut"
+               data-hide-no-mentions="true"
+               class="altmetric-embed"></div>
+        </div>
       {% endif %}
-    </h2>
+    </div>
 
     {% if include.show_authors and post.authors %}
       <p class="archive__item-excerpt" itemprop="author">{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>

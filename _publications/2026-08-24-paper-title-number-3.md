@@ -1,6 +1,7 @@
 ---
 title: "HisToSpatialCNV: an interpretable deep learning method predicting spatial copy number variations from histopathology images"
 authors: "Tianao Chen, *Thatchayut Unjitwattana*, Xuhui Guo, Pooja Thakur, Shu Zhou, Zheng Jing, Yiwen Yang, Yuheng Du, Weiping Zou & Lana X. Garmire"
+doi: "10.1038/s41551-026-01754-z"
 collection: publications
 category: manuscripts
 permalink: /publication/s41551-026-01754-z
