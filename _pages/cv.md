@@ -49,6 +49,13 @@ Publications
     {% include archive-single-cv.html show_authors=true %}
   {% endfor %}</ul>
 
+Conference Papers
+======
+{% assign conference_papers = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
+  <ul>{% for post in conference_papers %}
+    {% include archive-single-cv.html show_authors=true %}
+  {% endfor %}</ul>
+
 Preprints
 ======
 {% assign preprints = site.publications | where: "category", "preprints" | sort: "date" | reverse %}
